@@ -1,5 +1,7 @@
 # USAMA
+
 # SOMI-BRAND
+
 <p align="center"><a href="https://github.com/SOMI-BRAND">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SOMI-BRAND&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
@@ -25,23 +27,35 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 
 <a href="https://github.com/SOMI-BRAND"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=SOMI-BRAND&color=blueviolet&style=flat-square"></a>
+
 <h1 align="center"> I'm USAMA (SOMI)</h1>
+
 <p align="center">
+
      <i> <b> HIGH RATED </b> </i>
+
+</p>
+
+<p align="center">
+
+<img src="https://1.bp.blogspot.com/-gIpMNlv2VFc/YJXIvfonyHI/AAAAAAAAAYI/u8u9qmxEkEAqK4wwJltIqamQOQZsocngwCLcBGAsYHQ/s1280/20210508_035826.jpg">
+
      <i> <b> SOMI BRAND </b> </i>
+
 </p>
 
 <p align="center">
+
 <img src="https://1.bp.blogspot.com/-gIpMNlv2VFc/YJXIvfonyHI/AAAAAAAAAYI/u8u9qmxEkEAqK4wwJltIqamQOQZsocngwCLcBGAsYHQ/s1280/20210508_035826.jpg">
-<img src="https://1.bp.blogspot.com/-gIpMNlv2VFc/YJXIvfonyHI/AAAAAAAAAYI/u8u9qmxEkEAqK4wwJltIqamQOQZsocngwCLcBGAsYHQ/s1280/20210508_035826.jpg">
+
 </p>
+
 <p align="center">
+
 <i> <b> FUCK THE SYSTEM </b> </i>
-</p>
 
+</p>
 
 ## CONNECT WITH US :
 
-
 <a href="https://github.com/SOMI-BRAND"><img title="Github" src="https://img.shields.io/badge/SOMI-BRAND-brightgreen?style=for-the-badge&logo=github"></a>
-
